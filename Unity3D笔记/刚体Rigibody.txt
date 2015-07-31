@@ -1,0 +1,5 @@
+﻿-->使对象具有物理属性
+->Mass 质量属性
+->Drag 摩擦力属性
+->Angular Drag 转动摩擦阻力属性
+->Use Gravity 重力属性

@@ -1,0 +1,7 @@
+﻿->通过unity创建的资源
+->外部导入的资源|3d模型|声音|图片|
+->通过Assets Store购买的资源，window->Assets Store
+
+
+导入方法-->
+Assets->Import Package

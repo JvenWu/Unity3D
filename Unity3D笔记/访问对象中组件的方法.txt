@@ -1,0 +1,5 @@
+-->this点组件名
+->this.rigidbody
+
+-->使用泛型GetComponent<T>
+->this.GetComponent<Transform>().position

@@ -1,0 +1,3 @@
+﻿-->组件点gameobject
+->Collider cld
+->cld.gameobject

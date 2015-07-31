@@ -1,0 +1,5 @@
+﻿-->Print("")
+-->Debug.Log("")
+-->Debug.LogError("")
+-->Debug.LogException("")
+-->Debug.LogWarning("")

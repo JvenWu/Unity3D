@@ -1,0 +1,3 @@
+﻿在Help菜单下
+->Manual
+->Scrpting Reference

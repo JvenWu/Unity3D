@@ -1,0 +1,5 @@
+﻿-->Prefab相当于一个模板对象
+->一般先建一个Prefabs文件夹
+->在文件夹中直接创建对象或将建好的对象拖到Prefabs文件夹下，来创建预制
+->预制对象为蓝色
+->对像为红色时可用GameObject->Break Prefab Instance来取消其和预制的关联，从而变成普通对象

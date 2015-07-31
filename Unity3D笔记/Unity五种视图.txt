@@ -1,0 +1,3 @@
+﻿工程视图-->Project
+场景视图/游戏视图-->Scene/Game
+层级视图/检视视图(属性视图)-->Hierachy/Inspector

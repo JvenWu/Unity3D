@@ -1,0 +1,2 @@
+﻿使用Instantiate类，传入对像
+-->Instantiate(obj)

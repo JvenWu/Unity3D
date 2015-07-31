@@ -1,0 +1,7 @@
+﻿-->可以像碰撞器一样检测碰撞，不同的是对象可以穿过它
+->在碰撞器中勾选Is Trigger
+
+-->触发器常用方法(属于MonoBehavior类)
+->OnTriggerEnter(Collider cld) 刚接触触发器
+->OnTriggerExit(Collider cld)  离开触发器
+->OnTriggerStay(Collider cld)  还停留在触发器
